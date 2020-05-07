@@ -1,0 +1,5 @@
+D:\dotnet_workspace\TicTacToeEngine\bin\Debug\TicTacToeEngine.dll
+D:\dotnet_workspace\TicTacToeEngine\bin\Debug\TicTacToeEngine.pdb
+D:\dotnet_workspace\TicTacToeEngine\obj\Debug\TicTacToeEngine.csproj.CoreCompileInputs.cache
+D:\dotnet_workspace\TicTacToeEngine\obj\Debug\TicTacToeEngine.dll
+D:\dotnet_workspace\TicTacToeEngine\obj\Debug\TicTacToeEngine.pdb
